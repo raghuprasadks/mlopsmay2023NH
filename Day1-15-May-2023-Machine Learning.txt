@@ -1,1 +1,24 @@
+Introduction to MLOps
+ML lifecycle
 Machine Learning
+Pandas - https://www.listendata.com/2017/12/python-pandas-tutorial.html
+Assignment - covid
+
+https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?resource=download&select=covid_vaccine_statewise.csv
+
+
+Assignment - Covid Vaccine Statewise dataset
+
+1. create vaccine dataframe by reading data from downloaded csv
+2. Display shape of the dataframe
+3. Display 20 % data
+4. Display records for Karnataka State
+5. Display total Covaxin doses administered for karnataka
+6. Display total number of males and females administered for karnakata
+7. Display total number of males and females administered
+dosage group by state
+
+
+
+
+
