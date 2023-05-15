@@ -1,6 +1,11 @@
+https://github.com/raghuprasadks/mlopsmay2023NH
 https://www.listendata.com/2017/12/python-pandas-tutorial.html
 https://www.geeksforgeeks.org/confusion-matrix-machine-learning/
 https://www.geeksforgeeks.org/learning-model-building-scikit-learn-python-machine-learning-library/
 https://www.geeksforgeeks.org/implementing-pca-in-python-with-scikit-learn/
 https://www.geeksforgeeks.org/pipelines-python-and-scikit-learn/
 https://code.visualstudio.com/docs/python/python-tutorial
+
+https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india
+
+https://forms.gle/AREMfXhWYBEcfPHN8
