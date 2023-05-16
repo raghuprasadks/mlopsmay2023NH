@@ -1,0 +1,10 @@
+1. Build a linear regression model to predict
+the price of the car
+2. Split the data into training and testing
+keep 80 % data for training and 20 % data for testing
+3. Convert model into a pickle file
+4. Predict the price by converting pickle file into
+a model
+
+5. Find the accuracy of the model
+6. Find MSE
