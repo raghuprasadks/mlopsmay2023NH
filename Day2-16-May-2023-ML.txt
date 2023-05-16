@@ -2,3 +2,6 @@ Agenda
 1. Machine Learning Algorithms
 2. End to end project
 3. Git/Github
+
+Create account in azure
+https://azure.microsoft.com/en-us/get-started/azure-portal
