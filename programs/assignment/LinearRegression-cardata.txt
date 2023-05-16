@@ -9,3 +9,6 @@ a model
 6. Find MSE
 
 https://www.kaggle.com/code/manavgupta92/car-price-prediction-best-to-understand/input
+
+https://www.kaggle.com/code/hantaegeon/car-price-prediction-98
+https://www.kaggle.com/code/hantaegeon/car-price-prediction-98/notebook
