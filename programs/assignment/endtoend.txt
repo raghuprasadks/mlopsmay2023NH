@@ -1,6 +1,6 @@
-1. Develop classification model to clasify whether salary
+1. Develop classification model to classify whether salary
 is greater than 100 K (use salaries dataset)
-2. Covert model into a pickle file
-3. Develop API using flask
+2. Convert model into a pickle file
+3. Develop an API using flask
 4. Develop front end using html,javascript,jquery and css
 
