@@ -1,3 +1,29 @@
+one time command to clone the git repository
 1. git clone https://github.com/raghuprasadks/mlopsmay2023NH.git
 
+cd mlopsmay2023NH
 2. git pull
+
+3. sign up - github.com
+
+https://github.com/raghuprasadks/gitdemomlops
+
+Create a git repository
+
+clone the git repository into your system
+
+cd to repository folder
+
+4. create Hello.py file
+
+5. git add Hello.py
+to add all the files to local git
+6. git add .
+7. git commit -m "first time commit"
+8. git push
+
+not able to push using password
+
+setting-developersetting-
+personal access token
+token - keep it safe
