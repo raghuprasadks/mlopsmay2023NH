@@ -1,0 +1,4 @@
+Agenda
+1. Machine Learning Algorithms
+2. End to end project
+3. Git/Github

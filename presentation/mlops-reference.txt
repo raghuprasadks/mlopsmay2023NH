@@ -23,3 +23,8 @@ Assignment - Covid Vaccine Statewise dataset
 6. Display total number of males and females administered for karnakata
 7. Display total number of males and females administered
 dosage group by state
+
+https://mlflow.org/docs/latest/what-is-mlflow.html
+https://github.com/krishnaik06/mlproject
+
+https://www.youtube.com/watch?v=Rv6UFGNmNZg&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=2&ab_channel=KrishNaik

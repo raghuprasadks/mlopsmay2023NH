@@ -18,6 +18,14 @@ Assignment - Covid Vaccine Statewise dataset
 7. Display total number of males and females administered
 dosage group by state
 
+https://azure.microsoft.com/en-us/
+
+free tier account 
+student
+
+life cycle
+
+
 
 
 
