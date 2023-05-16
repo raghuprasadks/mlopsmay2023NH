@@ -5,6 +5,7 @@ keep 80 % data for training and 20 % data for testing
 3. Convert model into a pickle file
 4. Predict the price by converting pickle file into
 a model
-
 5. Find the accuracy of the model
 6. Find MSE
+
+https://www.kaggle.com/code/manavgupta92/car-price-prediction-best-to-understand/input
