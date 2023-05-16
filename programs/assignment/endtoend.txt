@@ -4,3 +4,19 @@ is greater than 100 K (use salaries dataset)
 3. Develop an API using flask
 4. Develop front end using html,javascript,jquery and css
 
+5. create mlopsmay2023 git repository and check in the
+code
+
+
+1. Download git
+https://git-scm.com/downloads
+
+
+git client - local system
+
+2. clone a git repository
+
+git clone https://github.com/raghuprasadks/mlopsmay2023NH.git
+github - cloud
+
+

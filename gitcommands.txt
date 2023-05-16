@@ -1,0 +1,3 @@
+1. git clone https://github.com/raghuprasadks/mlopsmay2023NH.git
+
+2. git pull
