@@ -5,3 +5,8 @@ Agenda
 
 Create account in azure
 https://azure.microsoft.com/en-us/get-started/azure-portal
+
+https://www.freecodecamp.org/news/end-to-end-machine-learning-project-turorial/
+
+
+
