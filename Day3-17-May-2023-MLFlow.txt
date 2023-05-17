@@ -1,0 +1,37 @@
+Recap: 
+MLOps DevOps - CD,CI,CD
+SDLC
+Machine Learning Development Cycle
+Agile,Scrum
+Machine Learning
+Pandas,
+scikit-learn - Regression ,Classification
+
+End to ML Project
+
+Front End, Back End - ML Model
+
+Git
+
+git clone
+git add
+git status
+git commit
+git push
+git pull
+
+
+
+
+
+Agenda:
+MLFlow - Machine Learning Flow
+ML Life Cycle
+SADTMC
+
+https://mlflow.org/docs/latest/quickstart.html
+
+mlflow ui
+https://mlflow.org/docs/latest/tutorials-and-examples/index.html#tutorials-and-examples
+
+
