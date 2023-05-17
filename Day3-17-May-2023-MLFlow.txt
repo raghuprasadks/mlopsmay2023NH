@@ -36,3 +36,18 @@ https://mlflow.org/docs/latest/tutorials-and-examples/index.html#tutorials-and-e
 
 
 https://github.com/TripathiAshutosh/mlflow
+
+
+Create virtual environment
+
+
+1. virtualenv <name>
+
+pipinstall virtualenv
+virtualenv demoenv
+
+cd demoenv
+cd Script
+activate
+
+anaconda powershell
