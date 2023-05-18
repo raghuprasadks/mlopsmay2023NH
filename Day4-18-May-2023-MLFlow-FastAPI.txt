@@ -9,7 +9,7 @@ http://localhost:8000/docs#
 Agenda:
 
 1. MLFlow with registering model in database
-2. Fast API
+2. Fast API - integration with  back end
 3. Jenkins
 4. Getting started with Azure cloud
 
@@ -41,9 +41,29 @@ pip install notebook
 
 pip install mlflow
 
+After m/c part
+
+before executing
+create_experiment
+
+ 
+
+#mlflow.set_tracking_uri("http://localhost:5000") 
 
 
 
+mlflow ui 
+in the virtual env
 
 
 
+Front End
+Back End
+
+Machine Learning Model
+
+Steps
+
+1. git clone https://github.com/TripathiAshutosh/FastAPI
+
+2. Follow readme.md

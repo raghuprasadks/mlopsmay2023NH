@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/884962565998301305/db504b80f97a45e3a20af6e4e23316bb/artifacts
+end_time: 1684393314162
+entry_point_name: ''
+experiment_id: '884962565998301305'
+lifecycle_stage: active
+run_id: db504b80f97a45e3a20af6e4e23316bb
+run_name: iris_classifier_method-100-run
+run_uuid: db504b80f97a45e3a20af6e4e23316bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684393311567
+status: 3
+tags: []
+user_id: Raghu Prasad

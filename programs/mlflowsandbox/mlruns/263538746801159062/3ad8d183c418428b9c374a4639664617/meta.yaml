@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/kaushalya/consultancy/newhorizonenggcollege/2023/mlops/mlopsvap/programs/mlflowsandbox/mlruns/263538746801159062/3ad8d183c418428b9c374a4639664617/artifacts
+end_time: 1684389670083
+entry_point_name: ''
+experiment_id: '263538746801159062'
+lifecycle_stage: active
+run_id: 3ad8d183c418428b9c374a4639664617
+run_name: iris_classifier_run18-05-23
+run_uuid: 3ad8d183c418428b9c374a4639664617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684389664886
+status: 3
+tags: []
+user_id: Raghu Prasad
