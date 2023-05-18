@@ -1,0 +1,20 @@
+one folder before
+
+python -m venv fastapivenv
+uvicorn main:app --reload
+
+http://localhost:8000/docs#
+
+
+Agenda:
+
+1. MLFlow with registering model in database
+2. Fast API
+3. Jenkins
+4. Getting started with Azure cloud
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/668524651997672182/623227deddd04fed96ccb9a2619ffd0b/artifacts
+end_time: 1684337827483
+entry_point_name: ''
+experiment_id: '668524651997672182'
+lifecycle_stage: active
+run_id: 623227deddd04fed96ccb9a2619ffd0b
+run_name: peaceful-seal-803
+run_uuid: 623227deddd04fed96ccb9a2619ffd0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684337824282
+status: 3
+tags: []
+user_id: Raghu Prasad

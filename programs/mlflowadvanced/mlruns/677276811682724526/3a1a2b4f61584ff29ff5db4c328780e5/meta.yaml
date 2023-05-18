@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/677276811682724526/3a1a2b4f61584ff29ff5db4c328780e5/artifacts
+end_time: 1684337561291
+entry_point_name: ''
+experiment_id: '677276811682724526'
+lifecycle_stage: active
+run_id: 3a1a2b4f61584ff29ff5db4c328780e5
+run_name: wistful-cub-430
+run_uuid: 3a1a2b4f61584ff29ff5db4c328780e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684337557262
+status: 3
+tags: []
+user_id: Raghu Prasad

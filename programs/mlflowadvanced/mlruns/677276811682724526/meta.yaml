@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/677276811682724526
+creation_time: 1684337557054
+experiment_id: '677276811682724526'
+last_update_time: 1684337557054
+lifecycle_stage: active
+name: basic_classifier
