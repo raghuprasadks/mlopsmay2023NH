@@ -13,6 +13,35 @@ Agenda:
 3. Jenkins
 4. Getting started with Azure cloud
 
+mlflow ui
+
+https://github.com/raghuprasadks/mlopsmay2023NH
+
+
+Virtual Environment
+
+
+Step 1 - Create a folder for your project
+
+D:\kaushalya\consultancy\newhorizonenggcollege\2023\mlops\mlopsvap\programs\mlflowsandbox
+
+Step 2 - Create virtual envioronment in above
+folder
+
+search anaconda powershell prompt
+
+cd to above folder
+conda create -n mlflowdemoenv python=3.9 ipykernel
+
+conda activate mlflowdemoenv
+
+python -m ipykernel install --user --name=mlflowdemoenv
+
+pip install notebook
+
+pip install mlflow
+
+
 
 
 
