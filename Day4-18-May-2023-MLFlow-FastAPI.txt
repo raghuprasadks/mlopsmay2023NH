@@ -13,9 +13,24 @@ Agenda:
 3. Jenkins
 4. Getting started with Azure cloud
 
+
+
 mlflow ui
 
 https://github.com/raghuprasadks/mlopsmay2023NH
+
+
+Azure
+
+1. Create account in Azure
+2. Create a static website
+with index.html
+3. Create repository in github
+4. Check in the code
+
+Azure - app service
+
+
 
 
 Virtual Environment
@@ -63,7 +78,8 @@ Back End
 Machine Learning Model
 
 Steps
-
 1. git clone https://github.com/TripathiAshutosh/FastAPI
-
 2. Follow readme.md
+python extension is visual studio code
+
+
