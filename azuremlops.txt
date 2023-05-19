@@ -6,3 +6,10 @@ Create a workspace
 https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-explore-data?view=azureml-api-2
 
 https://ml.azure.com/
+
+create an account in 
+
+https://azure.microsoft.com/
+
+
+
