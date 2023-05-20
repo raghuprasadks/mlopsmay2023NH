@@ -25,3 +25,7 @@ mlopsnhsandbox
 2. Practice ML Ops sample
 https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day?view=azureml-api-2
 
+https://www.kaggle.com/code/sudhirnl7/linear-regression-tutorial/input?select=insurance.csv
+
+pd.read_csv('azureml://subscriptions/98b3eb55-ae31-4931-b53c-6ba2271c671d/resourcegroups/prasadraghuks-rg/workspaces/mlopsnhsandbox/datastores/workspaceblobstore/paths/UI/2023-05-19_083851_UTC/insurance.csv')
+

@@ -1,0 +1,12 @@
+Agenda:
+
+Azure MLOps
+Docker
+download docker
+https://docs.docker.com/desktop/install/windows-install/
+
+download jenkins
+
+https://www.jenkins.io/download/
+
+https://www.jenkins.io/download/thank-you-downloading-windows-installer-stable/
