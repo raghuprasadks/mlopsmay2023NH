@@ -1,0 +1,100 @@
+Agenda:
+
+1. Create docker image using python flask
+2. Deploying a machine learning model on docker
+3. Deploying a machine learning end to end application on Azure
+4. Test
+
+Recap:
+
+Installation of docker
+https://docs.docker.com/desktop/install/windows-install/
+
+
+
+1. Create Hello World flask program and  deploy on Docker
+
+Step 1 : create pythonflaskdemo folder
+Step 2 : cd pythonflaskdemo
+Step 3 : code .
+Step 4 : Create virtual environment
+python -m venv flaskdemoenv
+activate
+.\flaskdemoenv\Scripts\activate
+
+Step 5 : Install dependent libraries
+
+pip install flask
+
+Step 6 : Create app.py inside pythonflaskdemo
+
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route("/hello")
+def helloworld():
+    return "<h1>Hello World</h1>"
+
+Step 6 : Run flask
+
+python -m flask run
+or
+
+python -m flask run --host=0.0.0.0
+
+http://127.0.0.1:5000/hello
+
+Step 7 : Create requirements file
+pip freeze > requirements.txt
+
+Step 7: Create a Dockerfile
+
+
+Step 8 : Build docker
+docker build -t welcome-app .
+docker images
+
+Step 9 : Run docker
+
+docker run -p 5000:5000 welcome-app
+docker ps
+
+Step 10 : Stop docker
+docker stop <containerid>
+
+docker stop f27ab67d311e
+
+
+2. Docker hub
+
+docker login
+
+
+remove docker image
+
+docker image rm -f welcome-app
+
+docker build -t prasadraghuks/welcome-app .
+
+or
+docker tag prasadraghuks/welcome-app prasadraghuks/welcome-app1
+
+
+docker push prasadraghuks/welcome-app:latest
+
+
+docker pull prasadraghuks/welcome-app:latest
+
+
+
+
+
+
+
+
+
+
+
+
+
