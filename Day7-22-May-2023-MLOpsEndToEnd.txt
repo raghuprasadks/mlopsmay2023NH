@@ -74,6 +74,8 @@ docker stop f27ab67d311e
 
 2. Docker hub
 
+https://hub.docker.com/
+
 docker login
 
 
@@ -87,14 +89,15 @@ or
 docker tag prasadraghuks/welcome-app prasadraghuks/welcome-app1
 
 
+docker build -t prasadraghuks/welcome-app-mlopsnh .
+docker push prasadraghuks/welcome-app-mlopsnh:latest
+
 docker push prasadraghuks/welcome-app:latest
 
 
 docker pull prasadraghuks/welcome-app:latest
 
-
-
-
+https://github.com/krishnaik06/Deployment-flask
 
 
 
