@@ -102,10 +102,10 @@ https://github.com/krishnaik06/Deployment-flask
 
 1. clone above link
 2. cd to Deployment-flask
-2. create a vitual environment
+2. create a virtual environment
 3. install required libraries
 
-flask,scikit-learn
+flask,scikit-learn,etc
 
 4. Run and verify
 5. create requirement.txt
