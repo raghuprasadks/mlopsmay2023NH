@@ -100,6 +100,22 @@ docker pull prasadraghuks/welcome-app:latest
 https://github.com/krishnaik06/Deployment-flask
 
 
+1. clone above link
+2. cd to Deployment-flask
+2. create a vitual environment
+3. install required libraries
+
+flask,scikit-learn
+
+4. Run and verify
+5. create requirement.txt
+
+pip freeze > requirement.txt
+
+6. Create a a Dockerfile
+7. Create docker image 
+
+
 
 
 
